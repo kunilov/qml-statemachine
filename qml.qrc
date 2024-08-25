@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backoven.qml</file>
+        <file>Docs/Article draft.odt</file>
+        <file>icons/air_circulation.png</file>
+        <file>icons/fire.gif</file>
+        <file>icons/top_bottom.png</file>
+        <file>Screens/BlankScreen.qml</file>
+        <file>Screens/ChooseModeScreen.qml</file>
+        <file>Screens/Constants.qml</file>
+        <file>Screens/DataArea.qml</file>
+        <file>Screens/EditTemperature.qml</file>
+        <file>Screens/Footer.qml</file>
+        <file>Screens/Header.qml</file>
+        <file>Screens/HeatingModeListItem.qml</file>
+        <file>Screens/HeatingScreen.qml</file>
+        <file>Screens/qmldir</file>
+        <file>Screens/TemperatureControl.qml</file>
+        <file>Screens/WorkingScreen.qml</file>
+        <file>States/StateMachine.qml</file>
+        <file>States/Working.qml</file>
+        <file>ViewModel/qmldir</file>
+        <file>ViewModel/ViewModel.qml</file>
+    </qresource>
+</RCC>
